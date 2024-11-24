@@ -21,6 +21,11 @@
 /* 页面基础样式 */
 body {
     font-family: 'KaiTi', 'Arial', sans-serif;
+    background-image: 
+        url('../image/IMG_20240508_212554.jpg'), 
+        url('../image/IMG_20230526_205150.jpg'), 
+        url('../image/IMG_20230508_191344.jpg'), 
+        url('../image/IMG_20241114_192143.jpg');
     background-image: url('../image/IMG_20240508_212554.jpg');
     background-size: cover;
     background-position: center;
